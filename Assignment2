@@ -1,0 +1,12 @@
+#Given no is even or odd
+a=int(input('Enter the number='))
+if a%2==0:
+    print('a is even number')
+else:
+    print('a is odd number')
+   :OUTPUT:
+Enter the number=912873465
+a is odd number
+> 
+© 2022 GitHub, Inc.
+
