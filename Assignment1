@@ -1,0 +1,12 @@
+#Biggest of Two numbers 
+a=int(input('enter the value of a='))
+b=int(input('enter the value of b='))
+if a>b:
+    print('a is big')
+else:
+    print('b is big')
+    :OUTPUT:
+enter the value of a=66
+enter the value of b=55
+a is big
+> 
