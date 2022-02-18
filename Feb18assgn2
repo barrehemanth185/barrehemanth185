@@ -1,0 +1,11 @@
+n=int(input('enter n value:'))
+factorial=1
+sum=1
+for i in range(1,n+1):
+    factorial=factorial*i
+    sum=sum+factorial 
+print('the sum of factorials is:',sum)
+Output: 
+enter n value:100
+the sum of factorials is: 94269001683709979260859834124473539872070722613982672442938359305624678223479506023400294093599136466986609124347432647622826870038220556442336528920420940314
+>
